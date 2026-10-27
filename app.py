@@ -1,3 +1,4 @@
+# KR2: Anikeev
 import os
 import socket
 
